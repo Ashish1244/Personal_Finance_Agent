@@ -1,4 +1,4 @@
-#!/Users/ashishjadia/Personal_Finance_Agent/PersonalAgent/bin/python3.10
+#!/Users/ashishjadia/Personal_Finance_Agent/MyAgent/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
